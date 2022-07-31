@@ -1,0 +1,11 @@
+{
+  "name": "parcel-resolver-fix-ts-esm-shit",
+  "main": "parcel-resolver-fix-ts-esm-shit.js",
+  "version": "0.0.1",
+  "engines": {
+    "parcel": ">=2.0.0"
+  },
+  "scripts": {
+    "build": "tsc"
+  }
+}
